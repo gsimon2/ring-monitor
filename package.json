@@ -1,0 +1,16 @@
+{
+  "name": "ringmonitor",
+  "version": "1.0.0",
+  "description": "Script to focus the newest event in the history view",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^24.1.1"
+  }
+}
